@@ -1,0 +1,5 @@
+<html>
+    <body>
+        Hello, <out value="#{usuario.toString}"/>!
+    </body>
+</html>
